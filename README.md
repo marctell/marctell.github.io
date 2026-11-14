@@ -1,2 +1,2 @@
-# marctell.github.io-4.
+# marctell.github.io
 Personal Business Intelligence &amp; Data Analytics Portfolio
